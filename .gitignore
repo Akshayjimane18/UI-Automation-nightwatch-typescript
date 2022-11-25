@@ -1,0 +1,4 @@
+node_modules/
+distrib/
+logs/
+tests_output/
